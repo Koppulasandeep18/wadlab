@@ -186,13 +186,13 @@
   }
   
   .downloading {
-    background: #000;
+    background: #7f08e7;
     width: 60%;
     height: 125px;
     position: absolute;
     top: 335px;
     left: 125px;
-    border: 5px solid #333;
+    border: 5px solid #67061f;
     border-radius: 10px;
     padding: 0.7rem;
     display: flex;
@@ -210,7 +210,7 @@
   }
   
   .download-text > p {
-    color: #0066e3;
+    color: #5a0fdc;
   }
   
   /* showcase 3*/
@@ -224,7 +224,7 @@
   
   /* faq list */
   .faq {
-    border-bottom: 10px solid #333;
+    border-bottom: 10px solid #107938;
   }
   
   .faq .inner-container {
