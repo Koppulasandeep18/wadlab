@@ -109,7 +109,7 @@
   .overlay {
     height: 100%;
     width: 100%;
-    background: #000;
+    background: hsl(270, 55%, 40%);
     position: absolute;
     left: 0;
     top: 0;
@@ -252,7 +252,7 @@
   
   .faq li {
     border-bottom: 5px solid #000;
-    background: #333;
+    background: #9917c5;
     cursor: pointer;
   }
   
